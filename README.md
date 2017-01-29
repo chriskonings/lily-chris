@@ -6,15 +6,7 @@ country > city.md > Attraction, Events, Food
 
 ###Legend:
 
-
 - [ ] Not Done
-
-📌 No Plans
-
-📝 Planning
-
-👍 Planned
-
 - [x] Done
 
 
