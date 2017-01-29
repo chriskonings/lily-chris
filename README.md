@@ -8,6 +8,9 @@ country > city.md > Attraction, Events, Food
 
 - [ ] Not Done
 - [x] Done
+- 📌 No Plans
+- 📝 Planning
+- 👍 Planned
 
 ###Images:
-01-01-2015-eng-ldn-picturedescription.jpeg
+01-01-17-country-city-picturedescription.jpeg
