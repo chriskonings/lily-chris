@@ -22,7 +22,7 @@ Austin
 
 - [x] [Magnolia Cafe](http://www.magnoliacafeaustin.com/) :fire:
 
-> We first found this place after a hot afternoon of paddleboarding on the river and the lot of us (there must've been 15 people altogether) took up a table the length of the entire cafe. I managed to sit across from Chris (pre-boyfriend, post-crush) and order a Tuna Pecan Salad. We had a fun conversation about getting tattoos together before the summer ended. We never followed through with those tattoos but we went back to that cafe obsessively after enjoying each other and their late night omelettes. - Lily
+> We first found this place after a hot afternoon of paddleboarding on the river and the lot of us (there must've been 15 people altogether) took up a table the length of the entire cafe. I managed to sit across from Chris (pre-boyfriend, post-crush) and order a Tuna Pecan Salad. We had a fun conversation about getting tattoos together before the summer ended. We never followed through with those tattoos but we went back to that cafe obsessively after, enjoying each other and their late night omelettes. - Lily
 
 - [x] [Jim's Restaurant](https://www.jimsrestaurants.com/)
 - [x] [24 Diner](http://24diner.com/): Betsy's Veggie burger, shakes :fire:
