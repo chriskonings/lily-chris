@@ -10,9 +10,7 @@ country > city > README.md
 
 [Dublin](https://github.com/chriskonings/lily-chris/tree/master/ireland/dublin)
 
-#United Kingdom
-
-[London](https://github.com/chriskonings/lily-chris/tree/master/united-kingdom/london)
+#[United Kindom](https://github.com/chriskonings/lily-chris/tree/master/united-kingdom/)
 
 #United States
 
