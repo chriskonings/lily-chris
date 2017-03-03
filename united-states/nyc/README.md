@@ -6,8 +6,6 @@ New York City
 - [ ] [Poke Spot](http://www.pokespot.com/)
 - [x] [Baohaus](http://www.baohausnyc.com/) :fire:
 
-### "You're in the city now kid"
-
 > Lily and I had expectations of Baohaus, not only high for the great food but for the vibe. We'd watched enough [Fresh off the boat](https://www.viceland.com/en_us/topic/fresh-off-the-boat) to know that Eddie Huang's restaurant would most certainly sport a unique atmosphere, it did not disappointed. Bauhaus is a tiny spot in Lower East Side with a big attitude, graffiti and polaroids decorate the walls, gangster rap explicitly booms through the restaurant. So I was surprised to see a middle-aged man and his 10-years-or-younger companion enter, they order their food surrounded by the local clientele (snap-backs included), I watched the kid take it all in, the gangster rap didn’t hold back at this point, throwing c*nts and f*cks in every direction. The middle-aged man finished ordering and noticed the kids reaction, he turns to the kid with a solemn look and just says “Yeah, you’re in the city now kid” - Chris
 
 - [x] [Kyochon](http://kyochonus.com/)
