@@ -1,4 +1,4 @@
-# Adventures of Lily and Chris, documented.
+Adventures of Lily and Chris, documented.
 ======
 
 ### File Structure
