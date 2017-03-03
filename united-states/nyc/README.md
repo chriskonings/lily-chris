@@ -6,7 +6,7 @@ New York City
 - [ ] [Poke Spot](http://www.pokespot.com/)
 - [x] [Baohaus](http://www.baohausnyc.com/) :fire:
 - [x] [Kyochon](http://kyochonus.com/)
-- [x] [Bonchon](https://bonchon.com/) :fire:
+- [ ] [Bonchon](https://bonchon.com/)
 - [ ] [Xi'an Famous Foods](http://xianfoods.com/)
 - [x] [Food Gallery 32](http://foodgallerynyc.com/)
 - [ ] [Bahn Mi Saigon](http://www.banhmisaigonnyc.com/)
