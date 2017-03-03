@@ -13,16 +13,21 @@ Austin
 - [x] [Chi'Lantro](http://www.chilantrobbq.com/): spicy chicken
 - [x] [Mozart's Cafe](http://www.mozartscoffee.com/)
 - [x] [Ramen Tatsu-Ya](http://ramen-tatsuya.com/) :fire:
+
+> We went to both locations in Austin but we prefer the South Lamar one because it has better vibes. The first time we went there, Chris had hot sake for the first time and we managed to buy two awesome "Ramen Tatsuya" shirts off our waiter. - Lily
+
 - [x] [Tiny Pies](http://www.tinypies.com/)
 - [x] [Vera Cruz](http://veracruztacos.com/) (E Cesar Chavez): fish taco, migas, aqua frescas :fire:
 - [x] [Little Sheep Mongolian Hot Pot](http://littlesheephotpot.com/) :fire:
+
+> I took Chris here for our first date and he'd never tried hot pot before. Pretty risky move on my part but somewhere amidst the billowing column of steam in our face and cooking raw meat, we had a great time and Chris is still dating me so 👍 - Lily
 
 ### Open 24 Hours
 > Chris and I often worked late nights as part of our training in Austin but both really hated being stuck in the office all day. So in light of Austin's many 24 hour establishments, we tried to work from a new one together each time we worked overtime. - Lily
 
 - [x] [Magnolia Cafe](http://www.magnoliacafeaustin.com/) :fire:
 
-> We first found this place after a hot afternoon of paddleboarding on the river and the lot of us (there must've been 15 people altogether) took up a table the length of the entire cafe. I managed to sit across from Chris (pre-boyfriend, post-crush) and order a Tuna Pecan Salad. We had a fun conversation about getting tattoos together before the summer ended. We never followed through with those tattoos but we went back to that cafe obsessively after, enjoying each other and their late night omelettes. - Lily
+> We first found this place after a hot afternoon of paddleboarding on the river and the lot of us (there must've been 15 people altogether) took up a table the length of the entire cafe. I managed to sit across from Chris (pre-boyfriend, post-crush) and order a Tuna Pecan Salad. We had a fun conversation about getting tattoos together before the summer ended. We never followed through with those tattoos but we went back to that cafe obsessively after, enjoying each other's company and their late night omelettes. - Lily
 
 - [x] [Jim's Restaurant](https://www.jimsrestaurants.com/)
 - [x] [24 Diner](http://24diner.com/): Betsy's Veggie burger, shakes :fire:
@@ -56,6 +61,9 @@ Austin
 - [x] Monkey See Monkey Do :fire:
 - [x] [Uncommon Objects](http://www.uncommonobjects.com/) :fire:
 - [x] [Warby Parker](https://www.warbyparker.com/retail/austin/1317-south-congress) :fire:
+
+> There's a free photo booth at the South Congress location! - Lily
+
 - [x] [Farewell Books](http://www.farewellbookstore.com/)
 - [x] [Waterloo Records & Video](http://www.waterloorecords.com/) :fire:
 - [x] [BOARDLife](http://www.boardlifeusa.com/) :fire:
