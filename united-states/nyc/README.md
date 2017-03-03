@@ -6,6 +6,9 @@ New York City
 - [ ] [Poke Spot](http://www.pokespot.com/)
 - [x] [Baohaus](http://www.baohausnyc.com/) :fire:
 - [x] [Kyochon](http://kyochonus.com/)
+
+> Chris and I were pescatarians by the time we got here and decided to break it so Chris could try Korean fried chicken for the first time. Worth it. - Lily
+
 - [ ] [Bonchon](https://bonchon.com/)
 - [ ] [Xi'an Famous Foods](http://xianfoods.com/)
 - [x] [Food Gallery 32](http://foodgallerynyc.com/)
