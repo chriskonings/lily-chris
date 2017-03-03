@@ -15,7 +15,7 @@ Ireland
 
 ### Pubs
 - [x] [The Liquor Rooms](http://theliquorrooms.com/) 🔥
-- [] [Vintage Cocktail Club](http://vintagecocktailclub.com/)
+- [ ] [Vintage Cocktail Club](http://vintagecocktailclub.com/)
 
 ### Shops
 - [x] [Industry & Co](https://industryandco.com/)
@@ -26,8 +26,8 @@ Ireland
 
 ### Attractions
 - [x] Ha'penny Bridge
-- [] [Guiness Storehouse](https://www.guinness-storehouse.com/en)
-- [] [Saint Patrick's Cathedral](https://www.stpatrickscathedral.ie/)
+- [ ] [Guiness Storehouse](https://www.guinness-storehouse.com/en)
+- [ ] [Saint Patrick's Cathedral](https://www.stpatrickscathedral.ie/)
 
 ### Misc
 - [x] Temple Bar :fire:
