@@ -12,7 +12,7 @@ country > city > README.md
 
 #United Kingdom
 
-[London](https://github.com/chriskonings/lily-chris/tree/master/united-kningdom/london)
+[London](https://github.com/chriskonings/lily-chris/tree/master/united-kingdom/london)
 
 #United States
 
