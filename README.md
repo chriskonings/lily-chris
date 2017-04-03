@@ -6,13 +6,13 @@ Adventures of Lily and Chris, documented.
 country > city > README.md
 
 
-## Ireland
+### Ireland
 
 [Dublin](https://github.com/chriskonings/lily-chris/tree/master/ireland/dublin)
 
-## [United Kindom](https://github.com/chriskonings/lily-chris/tree/master/united-kingdom/)
+### [United Kindom](https://github.com/chriskonings/lily-chris/tree/master/united-kingdom/)
 
-## United States
+### United States
 
 [New York City, NY](https://github.com/chriskonings/lily-chris/tree/master/united-states/nyc)
 
